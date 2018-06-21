@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 20th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Quentin Cartenuto
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, the class was tasked with making a working calculator to solve for living expenses and calculated the results from dollars to percentages. The goal being to program the calculator's functions through JavaScript, which were accomplished by setting up variables for six living expnses and then getting the sum of the expenses.  
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://qcartenuto.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. JavaScript: A programming language used to make/power dynamic webpages and other features.
+2. Variables: Datatypes with assigned values that are then used with functions in JavaScript. 
+3. Functions: A feature of JavaScript that when properly coded for the tasks as needed, creates programs that work with assigned variables and their values. 
 
 
 
